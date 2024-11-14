@@ -104,9 +104,9 @@ hb:
     #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/FunctionalProgrammingMastery.com
-      repo_id: R_kgDONJc1pA
+      repo_id: R_kgDONJiu4A
       category: Announcements
-      category_id: DIC_kwDONJc1pM4CkJzd
+      category_id: DIC_kwDONJiu4M4CkQEJ
       mapping: title
       strict_matching: true
       input_position: top
